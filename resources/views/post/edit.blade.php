@@ -1,4 +1,4 @@
-@extends('layout')
+// update @extends('layout')
 
 @section('content')
 <!-- proses ubah data -->
