@@ -1,4 +1,4 @@
-@extends('layout')
+// hapus @extends('layout')
 @section('content')
 <style>
     .upper{
